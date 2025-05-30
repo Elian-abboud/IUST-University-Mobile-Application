@@ -22,7 +22,6 @@ The IUST App is a mobile application designed specifically for students at the I
 ## 🛠️ 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝑼𝒔𝒆𝒅
 - 💙 Developed with Flutter and Dart  
 - 🔥 Backend and real-time data managed via Firebase  
-![IUST University Mobile Application](/1.jpg)
-
+![IUST University Mobile Application](/1.jpg)<br>
 🎥 [شاهد الفيديو](https://drive.google.com/file/d/1aFqzgIolI1Mmx81Bg8BV77u3-yoBBibj/preview)
 

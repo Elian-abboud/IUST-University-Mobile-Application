@@ -1,4 +1,4 @@
-# 📱 IUST App
+# 📱 IUST University App (Graduation Project-1)
 
 ## 📝 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏
 The IUST App is a mobile application designed specifically for students at the International University of Science and Technology. This app enhances the academic experience by providing a variety of useful features that simplify daily university tasks and improve communication.
@@ -22,7 +22,7 @@ The IUST App is a mobile application designed specifically for students at the I
 ## 🛠️ 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝑼𝒔𝒆𝒅
 - 💙 Developed with Flutter and Dart  
 - 🔥 Backend and real-time data managed via Firebase  
-![IUST University Mobile Application](/1.JPG)
+![IUST University Mobile Application](/1.jpg)
 ![IUST University Mobile Application](/2.mp4)
 
 
